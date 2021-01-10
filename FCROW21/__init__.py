@@ -18,6 +18,6 @@ def setupKIplus(ip):
     ip=random.randint(1111, 9999)
     ID=['KI+', '.', ip]
 
-def setupG--(ip):
+def setupGminus(ip):
     ip=random.randint(1111, 9999)
     ID=['N/A', '.', ip]
