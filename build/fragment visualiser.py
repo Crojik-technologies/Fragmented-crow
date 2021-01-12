@@ -1,7 +1,8 @@
 import turtle
 import random as r
+import __init__ as i
 words=[]
-num=r.randint(1111, 9999)
+num=0
 speed=0.8
 screen = turtle.Screen()
 screen.bgcolor('black')
@@ -30,11 +31,15 @@ def run():
 while speed != 0:
     run()
     tx= t.xcor()
-    print(tx)
+    print(tx + '   ', IP)
+    num=ip
+    i.setupKIplus(r.randint(1111, 9999))
     if tx == 306.000000000005:
-        num=r.randint(1111, 9999)
+        i.setupKIplus(r.randint(1111, 9999))
+        num=ip
         t.clear()
         t.goto(-350, 0)
         run()
+        
 
 
