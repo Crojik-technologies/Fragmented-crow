@@ -20,10 +20,11 @@
 ###### 5???- EGH
 ###### 6???- NOD
 ###### 7-9???- PHO
+###### 1234- Deus Mons fragment
 
 #####    ªThe G-- network is to be used as a deep network, not a illegal network. Hosted by ID-less servers in undisclosed locations.
 
 
 # _NEWS_
 ## FCROW21 fragments hosted on just 4 raspberry pi servers, soon to upgrade (01-14-21)
-## 
+## FCROW21 PHO network relocation to new server on [ScratchHost](https://scratch.mit.edu/projects/473945139/) on 01-14-21, all other networks to stay on greenhat servers. (01-14-21)
