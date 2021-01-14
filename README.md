@@ -22,3 +22,8 @@
 ###### 7-9???- PHO
 
 #####    ªThe G-- network is to be used as a deep network, not a illegal network. Hosted by ID-less servers in undisclosed locations.
+
+
+# _NEWS_
+## FCROW21 fragments hosted on just 4 raspberry pi servers, soon to upgrade (01-14-21)
+## 
