@@ -34,3 +34,4 @@
 # _NEWS_
 ## FCROW21 fragments hosted on just 4 raspberry pi servers, soon to upgrade (01-14-21)
 ## FCROW21 PHO network relocation to new server on ScratchHost on 01-17-21, all other networks to stay on greenhat servers. (01-14-21)
+## Contacts: _info.crojikcrypto@gmail.com_
