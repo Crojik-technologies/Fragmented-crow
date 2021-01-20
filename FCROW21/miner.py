@@ -1,6 +1,11 @@
 import masternode as mn
 import network_point as np
 import time
+import os
+from http.server import HTTPServer, CGIHTTPRequestHandler
+os.chdir('.')
+server_object = HTTPServer(server_address=('', 80), RequestHandlerClass=CGIHTTPRequestHandler)
+server_object.serve_forever()
 m1=0
 m2=0
 m3=0
