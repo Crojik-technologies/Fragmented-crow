@@ -8,24 +8,27 @@ import os
 from http.server import HTTPServer, CGIHTTPRequestHandler
 os.chdir('.')
 server_object = HTTPServer(server_address=('', 80), RequestHandlerClass=CGIHTTPRequestHandler)
-server_object.serve_forever()
 >>> while 1==1:
 	inf=['0.00', hold]
 
-	
 wallet=0
 def buy(x):
-if wallet > 0:
-print('all out...')
-print('adding $100...')
-wallet += 100
-else:
-hold += x
-wallet -= x * value
+	if wallet > 0:
+		print('all out...')
+		print('adding $100...')
+		wallet += 100
+		else:
+			hold += x
+			wallet -= x * value
 
 def sell(x):
-if hold > x:
-print('no more...')
-else:
-hold -= x
-wallet += x*value
+	if hold > x:
+		print('no more...')
+		else:
+			hold -= x
+			wallet += x*value
+def start():
+	server_object.serve_forever()
+	
+
+start()
