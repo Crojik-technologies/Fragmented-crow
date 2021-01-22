@@ -5,7 +5,6 @@ import os
 from http.server import HTTPServer, CGIHTTPRequestHandler
 os.chdir('.')
 server_object = HTTPServer(server_address=('', 80), RequestHandlerClass=CGIHTTPRequestHandler)
-server_object.serve_forever()
 m1=0
 m2=0
 m3=0
@@ -18,6 +17,7 @@ a=1
 def initialize(ID):
     a=1
     idd=[m1,'.',m4,'.',inf]
+    server_object.serve_forever()
     while a==1:
         m1+=m2
         m2+=m3
