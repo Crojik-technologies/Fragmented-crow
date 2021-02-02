@@ -1,5 +1,8 @@
 ![hweuif](https://1.bp.blogspot.com/-75gc1-iUIWg/YA7fRqrfkII/AAAAAAAABMg/OTNJF9QM1EQ8r0mY43rXkiPkXhWxihSbgCLcBGAsYHQ/s1120/FCROW21.png)
 # TAKE THIS [SURVEY](https://forms.gle/SuYht1zdpzfSZZhEA)
+
+[![Join the chat at https://gitter.im/fcrow21/community](https://badges.gitter.im/fcrow21/community.svg)](https://gitter.im/fcrow21/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ***
 ***
 ***
